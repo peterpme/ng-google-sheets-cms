@@ -1,4 +1,3 @@
 angular-google-docs
 ===================
-
-Loads Your Google Spreadsheet Inside Angular 
+Pull in Google Docs data with Angular.
