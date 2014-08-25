@@ -13,3 +13,20 @@ angular.module('portsApp', [
         redirectTo: '/'
       });
   });
+
+
+  (function () {
+    angular.module('angular-google-docs', [
+      'ngRoute'
+    ])
+    .config(function ($routeProvider) {
+      $routeProvider
+      .when('/', {
+        templateUrl: 'views/main.html',
+        controller: 'DisplayCtrl'
+      })
+      .otherwise({
+        redirectTo: '/'
+      });
+    });
+  }());
