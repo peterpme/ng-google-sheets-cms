@@ -1,16 +1,16 @@
 {
-  "name": "Angular Google Docs Loader",
+  "name": "Angular Google Sheets CMS",
   "version": "0.9.0",
   "dependencies": {
     "angular": "1.2.x",
     "jquery": "~1.10.2",
     "angular-route": "1.2.6"
   },
-  "homepage": "https://github.com/ppiekarczyk/angular-google-docs",
+  "homepage": "https://github.com/ppiekarczyk/ng-google-sheets-cms",
   "authors": [
     "Peter Piekarczyk <peterpiekarczyk@gmail.com>"
   ],
-  "description": "An AngularJS module that uses Google Sheets as a psudo-CMS",
+  "description": "An AngularJS module that uses Google Sheets as a pseudo-CMS",
   "main": "app.js",
   "keywords": [
     "angularjs",
