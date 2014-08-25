@@ -4,10 +4,6 @@ An easy way to incorporate a Google Docs spreadsheet using Angular. Use cases ma
 
 # Usage
 
-- Gruntfile isn't required, it continues to reside in the project for posterity, from my old developer ways.
-
 # Dependencies
 - Angular JS
 - jQuery
-### Todo
-Boweritize
